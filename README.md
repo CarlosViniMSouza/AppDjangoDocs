@@ -21,3 +21,5 @@ The final step is to enter your password. You will be asked to enter your passwo
   >>> Password (again): carlosvinimsouza
   >>> Superuser created successfully.
 ```
+
+## 4 - Rodar testes: `python manage.py test polls`
